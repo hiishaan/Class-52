@@ -1,0 +1,47 @@
+h1{
+    opacity: 0.3;
+    margin-top:500px;
+    color:rgb(209, 43, 43)
+}
+
+h2{
+    
+    transform: translate(0%,0%);
+    margin-right: 20px;
+    padding-right: 900px;
+    
+}
+
+*{
+    color: rgb(3, 0, 173);
+    border: solid
+
+}
+.HeadingofmyPage{
+    color:indigo;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.MysocialIcons{
+    color:lawngreen;
+    background-color: purple;
+}
+
+body{
+    background-color:lightgreen}
+
+    a:link{
+color:blue;
+
+}
+a:visited{
+    color:magenta
+}
+.menue a{
+    margin-left:10px;
+
+}
+.MysocialIcons a{
+    position:relative ;
+}
